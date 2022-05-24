@@ -1,0 +1,21 @@
+.heading{
+    width: 80%;
+    font-size: 25px; 
+}
+
+body{
+    background-image:url("https://wallpapercave.com/wp/wp2601727.jpg") ;
+}
+#result_object_name,#result_object_accurracy{
+    color: white;
+}
+.name_of_objects  {
+    color: blue;
+}
+
+#camera{
+    border: 2px dotted ;
+    width: 400px;
+    height: 320px;  
+}
+
